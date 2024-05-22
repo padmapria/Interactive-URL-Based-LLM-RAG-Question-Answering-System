@@ -1,0 +1,7 @@
+pymed==0.8.9
+haystack-ai==2.1.2
+huggingface_hub==0.23.0
+transformers[torch,sentencepiece]==4.39.3
+gradio==4.29.0
+python-dotenv==1.0.0
+torch==2.0.1
